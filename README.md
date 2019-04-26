@@ -1,6 +1,6 @@
 # ImageProcessing
 
-### This Visual Studio project is a small tool to resize any image using Bilinear Interpolation. 
+### This C++ project created in Visual Studio is a small tool to resize any image using Bilinear Interpolation. 
 
 ### Steps for smooth functioning
 
