@@ -1,0 +1,8 @@
+﻿  ImageProcessing.cpp
+C:\Users\Paulami\source\repos\ImageProcessing\ImageProcessing\ImageProcessing.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Paulami\source\repos\ImageProcessing\ImageProcessing\ImageProcessing.cpp(35): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  ImageProcessing.vcxproj -> C:\Users\Paulami\source\repos\ImageProcessing\x64\Debug\ImageProcessing.exe
